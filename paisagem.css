@@ -1,16 +1,14 @@
-
-.background{
+body{
     background: #E6DADA; 
-    background: -webkit-linear-gradient(to right, #274046, #E6DADA); 
-    background: linear-gradient(to right, #274046, #E6DADA);
-
+    background: -webkit-linear-gradient(to top, #274046, #E6DADA); 
+    background: linear-gradient(to top, #274046, #E6DADA);
+    height: 630px;
 }
+
 .espacamento{
-    background: #E6DADA; 
-    background: -webkit-linear-gradient(to right, #274046, #E6DADA); 
-    background: linear-gradient(to right, #274046, #E6DADA);
     height: 50px;
-}
+} 
+
 .lua{
     margin: 0 auto;
     padding: 20px;
